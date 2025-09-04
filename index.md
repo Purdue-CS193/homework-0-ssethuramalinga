@@ -1,3 +1,9 @@
+# Shrreya Sethuramalingam's First CS193 Homework
+- What I love about CS193 is that we're given the opportunity to learn the basic CS tools that we've not had exposure to in the past.
+- All the TAs who lecture in CS193 are very supportive and understanding.
+- I love that CS193 strives to make CS students prepared for the workplace.
+- I enjoy that CS193 has a Pso, which gives students the opportunity to get help.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
